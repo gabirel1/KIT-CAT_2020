@@ -2,6 +2,8 @@
 
 Comment faire des units_tests pour du JavaScript.
 
+Lien vers la vidéo :
+
 Requirements :
 
 <code> npm </code>
